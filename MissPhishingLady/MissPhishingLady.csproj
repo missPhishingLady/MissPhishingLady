@@ -79,6 +79,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbuseIPDB\CheckEndpoint.cs" />
+    <Compile Include="AbuseIPDB\CheckEndpointReports.cs" />
+    <Compile Include="AbuseIPDB\CheckEndpointRequest.cs" />
     <Compile Include="Lib\CheckStatusCode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
